@@ -1,0 +1,19 @@
+{
+    "name": "edson/php-design-patterns",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edson\\Db\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edson Oliveira",
+            "email": "edsongrdeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
